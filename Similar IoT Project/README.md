@@ -1,0 +1,11 @@
+# RTU MONDELEZ INTERNATIONAL
+RS485 Temperature and Humidity Monitoring with LoRA and 4G LTE Connectivity for Cocoa Greenhouse Mondelez International
+## Specs:
+Microcontroller ESP32
+SIM7600
+SX1278 LORA MODULE
+LTC3652 MPPT SHOLAR SHARGER CONTROLLER UPTO 10W
+DS3231
+MICROSD
+RS485 DRIVER FOR SHT31
+BMS FOR LI-ION 1S4P
