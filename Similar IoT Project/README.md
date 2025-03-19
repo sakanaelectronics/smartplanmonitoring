@@ -11,3 +11,7 @@ This project is a temperature and humidity monitoring system on a cocoa plantati
 7. RS485 DRIVER FOR SHT31
 8. Power (Adaptor 9V, Solar cell 7WP, Li-Ion Battery)
 9. BMS FOR LI-ION 1S4P
+
+### Dokumentation
+![Board1](Images/3pcs board V2 with lora and seluler.jpg)
+![Board2](Images/test board V2 with lora and seluler.jpg)
