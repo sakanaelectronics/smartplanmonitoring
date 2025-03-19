@@ -14,10 +14,10 @@ Hi, I'm Tri. I have more than 3 years of experience as a professional IoT engine
 
 ## First Design
 ### TOP
-![Top View](Circuit Diagram/TOP.png)
+![Top View](/Circuit%20Diagram/TOP.png)
 
 ### BOTTOM
-![TBOTTOM View](Circuit Diagram/BOTTOM.png)
+![TBOTTOM View](/Circuit%20Diagram/BOTTOM.png)
 
 ## Design Suggestion
 If I may suggest, I suggest adding rs485 to make it more flexible, accurate, and durable. So that in the future you can add other sensors such as
