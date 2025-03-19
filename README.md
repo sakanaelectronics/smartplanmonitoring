@@ -12,6 +12,13 @@ Hi, I'm Tri. I have more than 3 years of experience as a professional IoT engine
 
 *PCB from jlcpcb and components from lcsc.com will send to indonesia.
 
+## First Design
+### TOP
+![Top View](Circuit Diagram/TOP.png)
+
+### BOTTOM
+![TBOTTOM View](Circuit Diagram/BOTTOM.png)
+
 ## Design Suggestion
 If I may suggest, I suggest adding rs485 to make it more flexible, accurate, and durable. So that in the future you can add other sensors such as
 - [Soil Moisture, Temperature, pH & EC Sensor] (https://www.dfrobot.com/product-2830.html) 
